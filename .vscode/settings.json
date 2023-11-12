@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "APIRest.sln",
+    "csharp.debug.requireExactSource": false
+    
+}
